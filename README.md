@@ -6,7 +6,7 @@ as well as a text editor. You can then simply view emails as single files
 and also extract their attachments. This tool is complete as it is. You are
 welcome to fork it and add your own features.
 
-## usage:
+## usage
 ```
 cargo build --release
 ./target/release/simple-thunderbird-extractor EMAIL.mbox
