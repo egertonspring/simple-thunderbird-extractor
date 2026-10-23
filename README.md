@@ -18,3 +18,4 @@ After that your can find EML files in the pwd. Sometimes thousands of them.
 ## Out of scope
 This tool is a very simple text splitting tool. This is not written for Outlook.pst
 of Outlook.ost files.
+
